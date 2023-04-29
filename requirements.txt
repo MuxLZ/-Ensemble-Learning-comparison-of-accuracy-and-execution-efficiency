@@ -1,3 +1,4 @@
 conda install numpy
 conda install scipy
 conda install matplotlib
+pip install -U scikit-learn
