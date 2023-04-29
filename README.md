@@ -2,6 +2,6 @@
 
 # Python dependencies
 ## Install pip
-apt-get install python-pip
-## Install needed python modules trhough pip
-$ pip install -r requirements.txt
+`apt-get install python-pip`
+## Install needed python modules through pip
+`$ pip install -r requirements.txt`
